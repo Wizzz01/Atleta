@@ -1,0 +1,89 @@
+body{
+    overflow-x: hidden;
+    background-image: url('/images/Artboard\ 1.png');
+    background-repeat: no-repeat;
+}
+
+.navbar-brand{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.img-container{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 10%;
+}
+
+.img-container-index{
+    display: block;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.container{
+    text-align: center;
+}
+
+.container h2{
+    color: whitesmoke;
+    display: inline-block;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.col-2{
+    position:inherit;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+.card .card-header{
+    text-align: center;
+    background-color: rgb(54, 58, 83);
+    color: white;
+}
+
+.card .card-body{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+
+.card-header h2{
+    font-size: 25px;
+    display: inline-block;
+    font-family: 'Arial Narrow';
+    font-weight: bold;
+}
+
+.card-img-top{
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.container-text h1{
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+}
+
+.row h4{
+    color: rgb(218, 80, 80);
+}
+
+.col-3{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.row{
+    padding-top: 50px;
+}
