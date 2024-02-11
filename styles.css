@@ -1,0 +1,105 @@
+body{
+    overflow-x: hidden;
+    background-image: url('/images/Artboard\ 1.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.navbar-brand{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.img-container{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 10%;
+}
+
+.img-container-index{
+    display: block;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.container{
+    text-align: center;
+}
+
+.container h2{
+    color: whitesmoke;
+    display: inline-block;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.col-2, .card-img-body, .col-3, .row2 .col-8{
+    position:inherit;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+.card .card-header{
+    text-align: center;
+    background-color: rgb(54, 58, 83);
+    color: white;
+}
+
+.card .card-body{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+.workout-card .card-body{
+    background-color: rgb(218, 80, 80);
+    color: rgb(255, 255, 255);
+}
+
+.card-header h2{
+    font-size: 25px;
+    display: inline-block;
+    font-family: 'Arial Narrow';
+    font-weight: bold;
+}
+
+.card-img-top{
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.card-body h5{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.card-body p{
+    font-size: 20px;
+}
+
+.container-text h1{
+    margin-top: 10px;
+    color: rgb(218, 80, 80);
+}
+
+.row h4, .row2 h4{
+    font-weight: bold;
+    color: rgb(218, 80, 80);
+    font-size: 40px;
+}
+
+.row{
+    padding-top: 50px;
+    margin: 5%;
+}
+
+.card-desc{
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(218, 80, 80);
+}
